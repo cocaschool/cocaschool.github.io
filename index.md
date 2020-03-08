@@ -1,6 +1,9 @@
 ## Our New IXL Coaching Page
 
+Visit our new IXL coaching web page.
+
 [Coca School IXL Coaching](https://pleasant-artichoke-4bf1d.netlify.com/)
+
 
 ## Welcome to Coca School
 
@@ -15,6 +18,7 @@ We believe there is no limit to what your child can achieve. We encourage every 
 We engage students by providing instruction based on individual interests and learning styles, which meets the students’ academic, social, and emotional needs.
 
 We welcome families as partners in reaching and teaching the whole child.
+
 
 ## Our Mission
 
