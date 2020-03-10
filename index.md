@@ -1,10 +1,3 @@
-## Our New IXL Coaching Page
-
-Visit our new IXL coaching web page.
-
-[Coca School IXL Coaching](https://pleasant-artichoke-4bf1d.netlify.com/)
-
-
 ## Welcome to Coca School
 
 Our students are natural inquirers, curious about creation and the world around them, spending an incredible amount of time making sense of how everything fits together, and we guide our students' curiosities to help them become capable, responsible, and ultimately independent learners.
