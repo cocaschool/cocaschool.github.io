@@ -1,6 +1,8 @@
-## Under Construction
+## Coca School
 
-Our site is under construction.
+[Coca School Cafe](https://cafe.naver.com/cocaschool)
+
+[Coca School Blog](https://blog.naver.com/cocaschool)
 
 
 ## Welcome to Coca School
