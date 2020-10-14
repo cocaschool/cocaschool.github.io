@@ -1,11 +1,4 @@
-## Coca School
-
-[Coca School Cafe](https://cafe.naver.com/cocaschool)
-
-[Coca School Blog](https://blog.naver.com/cocaschool)
-
-
-## Welcome to Coca School
+## About Us
 
 Our students are natural inquirers, curious about creation and the world around them, spending an incredible amount of time making sense of how everything fits together, and we guide our students' curiosities to help them become capable, responsible, and ultimately independent learners.
 
@@ -35,3 +28,10 @@ Ambition can take them anywhere. It's transformational. It's what makes the extr
 That's why our outstanding teachers nurture these essential skills through personalised learning for each child. We build on each student's individual strengths and passions. We create challenge in every lesson and every activity so that they continuously grow and learn. We offer unique experiences to open new opportunities.
 
 Our family of schools empower our students to achieve beyond what they may have thought possible, academically, socially and personally.
+
+## Our Sites
+
+[Coca School Cafe](https://cafe.naver.com/cocaschool)
+
+[Coca School Blog](https://blog.naver.com/cocaschool)
+
