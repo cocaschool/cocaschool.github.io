@@ -32,5 +32,3 @@ Our family of schools empower our students to achieve beyond what they may have 
 ## Our Sites
 
 [Coca School Cafe](https://cafe.naver.com/cocaschool)
-
-[Coca School Blog](https://blog.naver.com/cocaschool)
