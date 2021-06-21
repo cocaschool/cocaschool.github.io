@@ -28,8 +28,3 @@ Ambition can take them anywhere. It's transformational. It's what makes the extr
 That's why our outstanding teachers nurture these essential skills through personalised learning for each child. We build on each student's individual strengths and passions. We create challenge in every lesson and every activity so that they continuously grow and learn. We offer unique experiences to open new opportunities.
 
 Our family of schools empower our students to achieve beyond what they may have thought possible, academically, socially and personally.
-
-
-## Our Sites
-
-[Coca School Cafe](https://cafe.naver.com/cocaschool)
