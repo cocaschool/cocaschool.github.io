@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-<body>
+도무스맘 블로그
+아래 링크를 클릭하세요.
+https://blog.naver.com/amodomus
 
-<script>
-var myPages = [
 "https://m.blog.naver.com/SectionNicknameNIdSearch.nhn?orderType=sim&searchValue=amodomus",
 "https://blog.naver.com/jump2joker/222406413555",
 "https://cafe.naver.com/jump2domus/2",
@@ -17,10 +15,5 @@ var myPages = [
 "https://jump2joker.tistory.com/2",
 "https://jump2paper.tistory.com/1",
 "https://jump2story.tistory.com/1"
-];
-var myNumber = Math.floor(Math.random() * myPages.length);
-window.location.href = myPages[myNumber];
-</script>
 
-</body>
-</html>
+https://cocaschool.com/redirect/amodomus/home.html
