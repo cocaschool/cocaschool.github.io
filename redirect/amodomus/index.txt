@@ -5,3 +5,10 @@ https://blog.naver.com/amodomus
 
 https://cocaschool.com/redirect/amodomus/index.html
 
+
+
+"https://jump2joker.blogspot.com/2021/06/blog-post.html",
+"https://jump2domus.blogspot.com/2021/06/blog-post.html",
+"https://jump2house.blogspot.com/2021/06/blog-post.html",
+"https://jump2paper.blogspot.com/2021/06/blog-post.html",
+"https://jump2story.blogspot.com/2021/06/blog-post.html"
