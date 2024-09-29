@@ -157,7 +157,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Noto Sans", sans-serif;
+		font-family: "Noto Sans", Arial;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
