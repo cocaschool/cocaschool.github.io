@@ -136,5 +136,22 @@
 		</script>
 		<script src="https://cdn.jsdelivr.net/npm/ahoy.js@0.3.9/dist/ahoy.min.js" async defer onload="configureAhoy()"></script>
 
+		<!-- Resize Google reCAPTCHA -->
+		<script type="text/javascript">
+function resizeCaptcha() {
+var captchaElem = document.getElementsByClassName(“g-recaptcha”)[0]
+
+var captchaWidth = captchaElem.children[0].offsetWidth;
+var parentWidth = captchaElem.parentElement.offsetWidth;
+
+captchaElem.style.transform = “scale(” + (parentWidth / captchaWidth) + “)”;
+captchaElem.style.transformOrigin = “0 0”;
+};
+
+grecaptcha.ready(resizeCaptcha);
+
+addEventListener(“resize”, (event) => {resizeCaptcha()});
+		</script>
+
 	</body>
 </html>
